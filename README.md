@@ -7,8 +7,8 @@ Usage:
      node curlToPy.js CurlFileName WriteFileName  
   or node curlToPy.js CurlFileName
      
-CurlFileName    it's a curl's commands copied for exemple from chrome debugger and writted on the same folder as curlToPy.js
-WriteFileName   it's a file name of converted file to Python code.    
+(CurlFileName)    it's a curl's commands copied for exemple from chrome debugger and writted on the same folder as curlToPy.js
+(WriteFileName)   it's a file name of converted file to Python code.    
 curlToPy.js of course depends from : node.js ,  
       and        curlconverter  --> to install -->  npm install --save curlconverter
           
