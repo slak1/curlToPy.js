@@ -1,5 +1,6 @@
 # curlToPy.js
-Soft utility to change Curl commands to Python commands for exemple to use in  Requests
+Soft utility to change Curl commands to Python commands 
+for exemple to use in  Requests
 Usage:
      node curlToPy.js <CurlFileName> <WriteFileName>  
   or node curlToPy.js <CurlFileName>
